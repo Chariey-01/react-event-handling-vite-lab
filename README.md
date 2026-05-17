@@ -57,3 +57,99 @@ You are working with a client to create a new password input within their websit
 - **GitHub Repository:** [React Event Handling Vite Lab](https://github.com/learn-co-curriculum/react-event-handling-vite-lab)
 - **Event Handling in React:** [React Documentation](https://react.dev/learn/responding-to-events#adding-event-handlers)
 
+# Password Input React App
+
+## Project Description
+
+This project is a React application that tracks:
+- User typing activity inside a password input
+- Mouse hover activity on a submit button
+
+The project demonstrates:
+- React components
+- Event handling
+- Component structure
+- Basic frontend testing
+
+---
+
+## Component Tree
+
+App
+├── PasswordInput
+└── SubmitButton
+
+---
+
+## Technologies Used
+
+- React
+- Vite
+- Jest
+- React Testing Library
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Navigate into the project folder:
+
+```bash
+cd project-folder
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+## Running the Project
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Running Tests
+
+```bash
+npm test
+```
+
+---
+
+## Features
+
+- Password input field
+- Typing event tracking
+- Mouse enter tracking
+- Mouse leave tracking
+- Component-based structure
+- Unit testing
+
+---
+
+## Screenshots
+
+### Main Interface
+
+
+![App Screenshot](src/assets/Screenshot from 2026-05-17 12-24-06.png)
+
+---
+
+## Author
+
+Charity Jepkoech

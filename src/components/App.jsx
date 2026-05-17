@@ -14,3 +14,16 @@ function App() {
 }
 
 export default App
+/*
+  App Component
+  ----------------
+  Parent component of the application.
+
+  Connected Components:
+  - PasswordInput
+  - SubmitButton
+
+  Responsibilities:
+  - Renders the overall application layout
+  - Displays child components
+*/
