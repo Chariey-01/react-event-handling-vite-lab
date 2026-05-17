@@ -2,10 +2,10 @@
 
 function SubmitButton (){
     function handleEnter(){
-        console.log("Mouse entered the submit button");
+        console.log("Mouse Entering");
     }
     function handleLeave(){
-        console.log("Mouse left the submit button");
+        console.log("Mouse Exiting");
     }
     return(
         <button onMouseEnter={handleEnter}

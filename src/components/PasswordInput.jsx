@@ -3,12 +3,12 @@
 function PasswordInput (){
 
     function handleChange(event){
-        console.log("Entered password: ", event.target.value);
+        console.log("Entering password...");
     }
     return(
        <input type="password" 
        onChange={handleChange}
-        placeholder="Enter your password" />  
+        />  
     )
 }
 
